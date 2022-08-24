@@ -24,7 +24,7 @@ import java.util.Scanner;
  *   3) Print each column as the "Chip" falls
  *        Include the starting and finishing rows
  * 
- * Advanced ideas (may need more than 1 for advanced)
+ * Advanced ideas
  *   Allow the user to play it multiple times and rack up or loose $$
  *   Add a betting element to it
  *   Create safeguards keeping the user from entering bad inputs
